@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">FancyScreen</string>
+    <string name="main_name">Michelle Townsend</string>
+    <string name="main_email">mt@ourcompany.com</string>
+    <string name="main_extension">2253</string>
+    <string name="main_department">Design</string>
+    <string name="main_supervisor">Gail Davers</string>
+    <string name="main_Kate">Kate Sacloff</string>
+    <string name="main_Andrew">Andrew Klein</string>
+    <string name="main_Maria">Maria Ortega</string>
+    <string name="main_Brent">Brent Stevenson</string>
+    <string name="main_Daniel">Daniel Cho</string>
+    <string name="main_Jorge">Jorge Gomez</string>
+
+
+
+    <string name="form_name">Name</string>
+    <string name="form_email">Email</string>
+    <string name="form_email_Address">Email address</string>
+    <string name="form_Extension_label">Extension</string>
+    <string name="form_Extension">Extension</string>
+    <string name="form_Department_label">Department</string>
+    <string name="form_Department">Department</string>
+    <string name="form_Supervisor_label">Supervisor</string>
+    <string name="form_Supervisor">Supervisor</string>
+    <string name="form_Direct_Reports">Direct Reports</string>
+
+
+
+
+
 </resources>

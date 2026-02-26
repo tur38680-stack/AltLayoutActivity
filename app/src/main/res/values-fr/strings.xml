@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ÉcranFantaisie</string>
+    <string name="main_name">Michelle Townsend</string>
+    <string name="main_email">mt@notreentreprise.com</string>
+    <string name="main_extension">2253</string>
+    <string name="main_department">Conception</string>
+    <string name="main_supervisor">Gail Davers</string>
+    <string name="main_Kate">Kate Sacloff</string>
+    <string name="main_Andrew">Andrew Klein</string>
+    <string name="main_Maria">Maria Ortega</string>
+    <string name="main_Brent">Brent Stevenson</string>
+    <string name="main_Daniel">Daniel Cho</string>
+    <string name="main_Jorge">Jorge Gomez</string>
+
+    <string name="form_name">Nom</string>
+    <string name="form_email">Courriel</string>
+    <string name="form_email_Address">Adresse électronique</string>
+    <string name="form_Extension_label">Poste</string>
+    <string name="form_Extension">Poste</string>
+    <string name="form_Department_label">Département</string>
+    <string name="form_Department">Département</string>
+    <string name="form_Supervisor_label">Superviseur</string>
+    <string name="form_Supervisor">Superviseur</string>
+    <string name="form_Direct_Reports">Subordonnés directs</string>
+</resources>
